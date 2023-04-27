@@ -1,8 +1,11 @@
 Hi there 👋 
 
 ⚡ I’m interested in embedded systems!
+
 🌱 I’m currently learning motor control.
+
 🤔 I’m looking for help with control theory & algorithm.
+
 
 ![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=akakoziqi&layout=compact&include_all_commits=true)
 
