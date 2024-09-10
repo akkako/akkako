@@ -2,7 +2,7 @@ Hi there 👋
 
 ⚡ I’m interested in embedded systems!
 
-🌱 I’m currently learning motor control.
+🌱 I’m currently learning audio synthesis & radio system.
 
 🤔 I’m looking for help with control theory & algorithm.
 
